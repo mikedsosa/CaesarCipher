@@ -1,2 +1,3 @@
 # CaesarCipher
-Caesar Cipher explanation and code walkthrough.
+
+Encryption project going through the Caesar Cipher.
